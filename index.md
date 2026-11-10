@@ -1,3 +1,7 @@
+#### Identitas
+Nama: Ghenia Rahma Madina
+NIM: 13040124140161
+Kelas: D
 # Digital Library
 Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
